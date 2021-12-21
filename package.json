@@ -1,0 +1,23 @@
+{
+  "name": "seek-and-hide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server ./public -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanWang1/Seek-and-hide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanWang1/Seek-and-hide/issues"
+  },
+  "homepage": "https://github.com/AlanWang1/Seek-and-hide#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
